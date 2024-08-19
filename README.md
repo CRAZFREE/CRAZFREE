@@ -26,12 +26,14 @@
 *2015 | Percentage: 85.5%*
 
 💼 Internship Experience
-Undergraduate Intern | Leeway Hertz
-July - August 2020
 
-Blockchain Internship
-Developed a user registration system with API integration for creating, storing, and updating user data.
-Built a stablecoin on the Stellar Blockchain and a user wallet with ReactJS, enabling account creation, token transfer, and transaction viewing.
+**Undergraduate Intern | Leeway Hertz**  
+*July - August 2020*
+
+**Blockchain Internship:**
+- Developed a user registration system with API integration for creating, storing, and updating user data.
+- Built a stablecoin on the Stellar Blockchain and a user wallet with ReactJS, enabling account creation, token transfer, and transaction viewing.
+
 📜 Published Work
 Simulating Bot to Detect Human Emotions Using Natural Language Processing
 International Journal Of Advance Research And Innovative Ideas In Education (IJARIIE)
