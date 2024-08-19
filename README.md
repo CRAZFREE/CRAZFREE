@@ -7,22 +7,23 @@
   <a href="#GitHub">GitHub</a> •
   <a href="#Profile">Profile</a>
 </p>
-🎓 Education and Scholastic Achievements
-M.Tech in Computer Science Engineering
-Indian Institute of Technology Madras
-2023 - 2025 | CGPA: 7.43
+## 🎓 Education and Scholastic Achievements
 
-B.E. in Information Science Engineering
-Dayananda Sagar Academy of Technology and Management
-2017 - 2021 | CGPA: 7.68
+**M.Tech in Computer Science Engineering**  
+*Indian Institute of Technology Madras*  
+*2023 - 2025 | CGPA: 7.43*
 
-XII (CBSE)
-St. Clares’ Sr. Sec. School
-2017 | Percentage: 82.2%
+**B.E. in Information Science Engineering**  
+*Dayananda Sagar Academy of Technology and Management*  
+*2017 - 2021 | CGPA: 7.68*
 
-X (CBSE)
-St. Clares’ Sr. Sec. School
-2015 | Percentage: 85.5%
+**XII (CBSE)**  
+*St. Clares’ Sr. Sec. School*  
+*2017 | Percentage: 82.2%*
+
+**X (CBSE)**  
+*St. Clares’ Sr. Sec. School*  
+*2015 | Percentage: 85.5%*
 
 💼 Internship Experience
 Undergraduate Intern | Leeway Hertz
