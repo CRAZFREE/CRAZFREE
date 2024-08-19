@@ -25,6 +25,8 @@
 *St. Clares’ Sr. Sec. School*  
 *2015 | Percentage: 85.5%*
 
+---
+
 💼 Internship Experience
 
 **Undergraduate Intern | Leeway Hertz**  
