@@ -7,7 +7,7 @@
   <a href="#GitHub">GitHub</a> •
   <a href="#Profile">Profile</a>
 </p>
-## 🎓 Education and Scholastic Achievements
+🎓 Education and Scholastic Achievements
 
 **M.Tech in Computer Science Engineering**  
 *Indian Institute of Technology Madras*  
