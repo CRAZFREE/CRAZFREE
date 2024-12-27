@@ -27,22 +27,6 @@
 
 ---
 
-💼 Internship Experience
-
-**Undergraduate Intern | Leeway Hertz**  
-*July - August 2020*
-
-**Blockchain Internship:**
-- Developed a user registration system with API integration for creating, storing, and updating user data.
-- Built a stablecoin on the Stellar Blockchain and a user wallet with ReactJS, enabling account creation, token transfer, and transaction viewing.
-
-📜 Published Work
-Simulating Bot to Detect Human Emotions Using Natural Language Processing
-International Journal Of Advance Research And Innovative Ideas In Education (IJARIIE)
-Paper ID: 14748
-e-ISSN: 2395-4396
-Authors: Rio Glen Lobo, Sambhav Jain, Saraj Kishore, Saurabh S R
-View Paper
 🔬 Projects
 🧑‍💻 Graduate Thesis Project | JUGAAD - Behaviour-as-a-Service
 June 2024 - Ongoing | Supervisor: Chester Rebeiro
