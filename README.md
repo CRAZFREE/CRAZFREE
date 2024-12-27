@@ -49,17 +49,7 @@ June 2024 - Ongoing | Supervisor: Chester Rebeiro
 
 Analyzed malware reports, developed hashes, and compressed malware files as part of Open Malware Research.
 Set up an NFS server and database, integrated with the website for seamless data management.
-🤖 Undergraduate Project | Simulating Personality BOT (SimpBOT)
-August 2020 - June 2021 | Supervisor: Dr. M. Vinoth Kumar
 
-Executed word-level and character-level models, achieving 82.65% accuracy in Hindi abusive language detection.
-Integrated ReactJS and DialogFlow with Webhooks for real-time sentiment analysis.
-Trained the bot to detect abusive language and aggressiveness using profile-based representations.
-📊 Undergraduate Minor Project | Student Performance Analysis
-August 2020 - June 2021 | Supervisor: BhavyaShree H L
-
-Demonstrated a 14%–15% improvement in placement outcomes from the 2018-2019 season to the 2019-2020 season.
-Designed a database in MySQL to store and organize student information, including courses, semesters, years, and marks.
 🛠️ Course Projects
 CS6023 GPU Programming (Instructor: Rupesh Nasre)
 Improved execution time by 40%–60% through parallel processing over sequential methods.
