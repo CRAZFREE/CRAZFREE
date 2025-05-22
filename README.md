@@ -1,58 +1,86 @@
 <h1 align="center">Hi, I'm Sambhav Jain 👋</h1>
 <p align="center">
-  <strong>M.Tech in Computer Science Engineering | IIT Madras | Student ID: CS23M060</strong>
+  <strong>M.Tech in Computer Science and Engineering | IIT Madras</strong><br>
+  <strong>Student ID: CS23M060</strong>
 </p>
+
 <p align="center">
-  <a href="#LinkedIn">LinkedIn</a> •
-  <a href="#GitHub">GitHub</a> •
-  <a href="#Profile">Profile</a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/your-username" target="_blank">GitHub</a> •
+  <a href="https://your-website-or-profile.com" target="_blank">Portfolio</a>
 </p>
-🎓 Education and Scholastic Achievements
-
-**M.Tech in Computer Science Engineering**  
-*Indian Institute of Technology Madras*  
-*2023 - 2025 | CGPA: 7.43*
-
-**B.E. in Information Science Engineering**  
-*Dayananda Sagar Academy of Technology and Management*  
-*2017 - 2021 | CGPA: 7.68*
-
-**XII (CBSE)**  
-*St. Clares’ Sr. Sec. School*  
-*2017 | Percentage: 82.2%*
-
-**X (CBSE)**  
-*St. Clares’ Sr. Sec. School*  
-*2015 | Percentage: 85.5%*
 
 ---
 
-🔬 Projects
-🧑‍💻 Graduate Thesis Project | JUGAAD - Behaviour-as-a-Service
-June 2024 - Ongoing | Supervisor: Chester Rebeiro
+## 🎓 Education
 
-Analyzed malware reports, developed hashes, and compressed malware files as part of Open Malware Research.
-Set up an NFS server and database, integrated with the website for seamless data management.
+- **M.Tech in Computer Science and Engineering**  
+  *Indian Institute of Technology Madras*  
+  *2023 – 2025 | CGPA: 7.43*
 
-🛠️ Course Projects
-CS6023 GPU Programming (Instructor: Rupesh Nasre)
-Improved execution time by 40%–60% through parallel processing over sequential methods.
+- **B.E. in Information Science Engineering**  
+  *Dayananda Sagar Academy of Technology and Management*  
+  *2017 – 2021 | CGPA: 7.68*
 
-CS6570 Secure System Engineering (Instructor: N S Narayanaswamy)
-Applied Secure System Engineering principles to identify and mitigate vulnerabilities, enhancing project security.
+- **Class XII (CBSE)**  
+  *St. Clares’ Sr. Sec. School*  
+  *2017 | Percentage: 82.2%*
 
-💡 Skills
-Programming Languages: C++, HTML, JavaScript, SQL
-Technologies: ReactJS, NodeJS, ExpressJS, MongoDB, PostgreSQL, DialogFlow, Flask
-Blockchain: Solidity, Stellar Blockchain
-Others: Machine Learning, Google Cloud Platform, CUDA
-🏅 Position of Responsibility
-Graduate Teaching Assistant
-CS6040 Router Algorithm and Architecture
-July - November 2024
-Held tutorials for students, resolved doubts, and graded assignments.
-🏆 Extra-Curricular Activities
-Sports: Swimming, Cricket, Chess
+- **Class X (CBSE)**  
+  *St. Clares’ Sr. Sec. School*  
+  *2015 | Percentage: 85.5%*
+
+---
+
+## 🔬 Projects
+
+### 🧪 Graduate Thesis Project – JUGAAD: Behaviour-as-a-Service  
+**June 2024 – Ongoing**  
+**Supervisor:** Chester Rebeiro  
+- Analyzed malware reports and developed hash generation techniques  
+- Compressed malware files for Open Malware Research  
+- Set up and integrated an NFS server and database with a website for seamless data handling
+
+### 💻 Course Projects
+
+- **CS6023 GPU Programming** *(Instructor: Rupesh Nasre)*  
+  Improved execution time by **40%–60%** using parallel processing over sequential techniques
+
+- **CS6570 Secure System Engineering** *(Instructor: N. S. Narayanaswamy)*  
+  Identified and mitigated vulnerabilities using secure systems engineering principles
+
+---
+
+## 💡 Skills
+
+**Languages:** C++, HTML, JavaScript, SQL  
+**Web/Backend:** ReactJS, NodeJS, ExpressJS, Flask  
+**Databases:** MongoDB, PostgreSQL  
+**AI/Cloud:** Machine Learning, Google Cloud Platform, DialogFlow  
+**Blockchain:** Solidity, Stellar Blockchain  
+**Others:** CUDA, NFS Configuration
+
+---
+
+## 🏅 Position of Responsibility
+
+**Graduate Teaching Assistant**  
+*CS6040 Router Algorithm and Architecture*  
+*July – November 2024*  
+- Conducted tutorials and resolved student queries  
+- Graded assignments and assisted in course management
+
+---
+
+## 🏆 Extra-Curricular Activities
+
+**Sports:**  
+- 🏊 Swimming  
+- 🏏 Cricket  
+- ♟️ Chess
+
+---
+
 <p align="center">
   <strong>Let's connect and collaborate!</strong>
 </p>
