@@ -16,7 +16,7 @@
 
 - **M.Tech in Computer Science and Engineering**  
   *Indian Institute of Technology Madras*  
-  *2023 – 2025 | CGPA: 7.43*
+  *2023 – 2025 | CGPA: 8.00*
 
 - **B.E. in Information Science Engineering**  
   *Dayananda Sagar Academy of Technology and Management*  
