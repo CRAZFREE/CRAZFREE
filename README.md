@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Sambhav Jain 👋</h1>
 <p align="center">
-  <strong>M.Tech in Computer Science and Engineering | IIT Madras</strong><br>
-  <strong>Student ID: CS23M060</strong>
+  <strong>TVS Motor Company | M.Tech in Computer Science and Engineering | IIT Madras</strong><br>
 </p>
 
 <p align="center">
